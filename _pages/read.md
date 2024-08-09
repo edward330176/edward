@@ -1,5 +1,5 @@
 ---
-title: "My Book Corner"
+title: "Book Corner"
 permalink: /
 ---
 
