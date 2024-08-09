@@ -1,5 +1,5 @@
 ---
-title: "My Reading List"
+title: "MBook Corner"
 permalink: /read/
 ---
 
