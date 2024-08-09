@@ -1,6 +1,6 @@
 ---
-title: "MBook Corner"
-permalink: /read/
+title: "My Book Corner"
+permalink: /
 ---
 
 
