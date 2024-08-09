@@ -5,7 +5,7 @@ permalink: /blog/
 
 
 <div class="blog-post">
-  <img src="https://edward330176.github.io/assets/img/chaptgpt.png" width="300" align="left" style="margin-right: 15px;">
+  <img src="https://edward330176.github.io/assets/img/chaptgpt.png" style="width: 100%; max-width: 150px; height: auto; margin-right: 15px;" align="left">
   <h2><a href="https://medium.com/@edwardlongtang/the-most-discussed-topics-in-2023-for-data-science-3f0869514f41" target="_blank" style="color: black; text-decoration: none;">Is ChatGPT Truly the Most Discussed Topic in 2023 for Data Science?</a></h2>
   <p style="font-size: 0.9em;">Dec 14, 2023 &nbsp;|&nbsp; 5 min read</p>
 </div>
