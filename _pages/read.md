@@ -10,17 +10,11 @@ toc_sticky: true
 
 # Productivity
 
-<hr style="margin: 1em 0;">
+### 7 Habits of Highly Effective People
+<span style="font-size: 0.8em; font-weight: normal;">by Stephen R. Covey</span>
 
-<div style="margin-left: 1.5em; margin-bottom: 0.5em;">
-  <h3 style="display: inline; font-size: 1em; font-weight: bold;">7 Habits of Highly Effective People</h3>
-  <span style="font-size: 1em; font-weight: normal;"> by Stephen R. Covey</span>
-</div>
-
-<div style="margin-left: 1.5em; margin-bottom: 0.5em;">
-  <h3 style="display: inline; font-size: 1em; font-weight: bold;">Atomic Habits</h3>
-  <span style="font-size: 1em; font-weight: normal;"> by James Clear</span>
-</div>
+### Atomic Habits
+<span style="font-size: 0.8em; font-weight: normal;">by James Clear</span>
 
 <div style="margin-left: 1.5em; margin-bottom: 0.5em;">
   <h3 style="display: inline; font-size: 1em; font-weight: bold;">12 Rules for Life</h3>
