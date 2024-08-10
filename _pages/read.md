@@ -8,20 +8,23 @@ toc_sticky: true
 ---
 > "The more that you read, the more things you will know. The more that you learn, the more places you'll go." – Dr. Seuss
 
-# Self-Improvement & Productivity
+# Productivity
 
-<div style="margin-bottom: 0.5em;">
+<hr style="margin: 1em 0;">
+
+<div style="margin-left: 1.5em; margin-bottom: 0.5em;">
   <h3 style="display: inline; font-size: 1em; font-weight: bold;">7 Habits of Highly Effective People</h3>
-  <span style="font-size: 0.8em; font-weight: normal;"> by Stephen R. Covey</span>
+  <span style="font-size: 1em; font-weight: normal;"> by Stephen R. Covey</span>
 </div>
 
-<div style="margin-bottom: 0.5em;">
-## <span style="font-weight: bold;">Atomic Habits</span> by James Clear
-<span style="font-size: 0.8em; font-weight: normal;">by James Clear</span>
+<div style="margin-left: 1.5em; margin-bottom: 0.5em;">
+  <h3 style="display: inline; font-size: 1em; font-weight: bold;">Atomic Habits</h3>
+  <span style="font-size: 1em; font-weight: normal;"> by James Clear</span>
 </div>
 
-<div style="margin-bottom: 0.5em;">
-    <span style="font-weight: bold;">12 Rules for Life</span> by Jordan B. Peterson
+<div style="margin-left: 1.5em; margin-bottom: 0.5em;">
+  <h3 style="display: inline; font-size: 1em; font-weight: bold;">12 Rules for Life</h3>
+  <span style="font-size: 1em; font-weight: normal;"> by Jordan B. Peterson</span>
 </div>
 
 <div style="margin-bottom: 0.5em;">
