@@ -10,13 +10,11 @@ toc_sticky: true
 
 ## Self-Improvement & Productivity
 
-<div style="margin-bottom: 0.5em;">
-    <span style="font-weight: bold;">###7 Habits of Highly Effective People</span> by Stephen R. Covey
-</div>
+### <span style="font-size: 1.2em; font-weight: bold;">7 Habits of Highly Effective People</span>
+<span style="font-size: 1em; font-weight: normal;">by Stephen R. Covey</span>
 
-<div style="margin-bottom: 0.5em;">
-    <span style="font-weight: bold;">Atomic Habits</span> by James Clear
-</div>
+### <span style="font-size: 1.2em; font-weight: bold;">Atomic Habits</span>
+<span style="font-size: 1em; font-weight: normal;">by James Clear</span>
 
 <div style="margin-bottom: 0.5em;">
     <span style="font-weight: bold;">12 Rules for Life</span> by Jordan B. Peterson
