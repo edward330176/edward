@@ -1,6 +1,6 @@
 ---
-title: "Blog"
-permalink: /blog/
+title: "Blogs"
+permalink: /blogs/
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 1em;">
