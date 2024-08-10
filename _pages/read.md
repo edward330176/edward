@@ -8,23 +8,35 @@ toc_sticky: true
 ---
 > "The more that you read, the more things you will know. The more that you learn, the more places you'll go." – Dr. Seuss
 
-### **Self-Improvement & Productivity**
-#### 1. **7 Habits of Highly Effective People** 
-by Stephen R. Covey
-   
-#### 2. **Atomic Habits** 
-by James Clear
-  
-#### 3. **12 Rules for Life** 
-by Jordan B. Peterson
-   
-#### **The Four-Hour Workweek** by Tim Ferriss
-   
-#### **Just Keep Buying** by Nick Maggiulli
-  
-#### **I Will Teach You to Be Rich** by Ramit Sethi
-  
-#### **Limitless** by Jim Kwik
+## Self-Improvement & Productivity
+
+<div style="margin-bottom: 0.5em;">
+    <span style="font-weight: bold;">7 Habits of Highly Effective People</span> by Stephen R. Covey
+</div>
+
+<div style="margin-bottom: 0.5em;">
+    <span style="font-weight: bold;">Atomic Habits</span> by James Clear
+</div>
+
+<div style="margin-bottom: 0.5em;">
+    <span style="font-weight: bold;">12 Rules for Life</span> by Jordan B. Peterson
+</div>
+
+<div style="margin-bottom: 0.5em;">
+    <span style="font-weight: bold;">The Four-Hour Workweek</span> by Tim Ferriss
+</div>
+
+<div style="margin-bottom: 0.5em;">
+    <span style="font-weight: bold;">Just Keep Buying</span> by Nick Maggiulli
+</div>
+
+<div style="margin-bottom: 0.5em;">
+    <span style="font-weight: bold;">I Will Teach You to Be Rich</span> by Ramit Sethi
+</div>
+
+<div style="margin-bottom: 0.5em;">
+    <span style="font-weight: bold;">Limitless</span> by Jim Kwik
+</div>
   
 
 ### **Psychology & Mindset**
