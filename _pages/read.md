@@ -1,6 +1,6 @@
 ---
 title: "Book Corner"
-permalink: /read/
+permalink: /bookcorner/
 toc: true
 toc_label: Book Title
 toc_icon: book
