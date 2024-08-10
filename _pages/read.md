@@ -7,13 +7,16 @@ toc_icon: book
 toc_sticky: true
 ---
 > "The more that you read, the more things you will know. The more that you learn, the more places you'll go." – Dr. Seuss
-> 
+
 ### **Self-Improvement & Productivity**
-#### **7 Habits of Highly Effective People** by Stephen R. Covey
+#### 1. **7 Habits of Highly Effective People** 
+by Stephen R. Covey
    
-#### **Atomic Habits** by James Clear
+#### 2. **Atomic Habits** 
+by James Clear
   
-#### **12 Rules for Life** by Jordan B. Peterson
+#### 3. **12 Rules for Life** 
+by Jordan B. Peterson
    
 #### **The Four-Hour Workweek** by Tim Ferriss
    
