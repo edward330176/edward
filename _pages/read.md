@@ -8,13 +8,17 @@ toc_sticky: true
 ---
 > "The more that you read, the more things you will know. The more that you learn, the more places you'll go." – Dr. Seuss
 
-## Self-Improvement & Productivity
+# Self-Improvement & Productivity
 
-### <span style="font-size: 1.2em; font-weight: bold;">7 Habits of Highly Effective People</span>
-<span style="font-size: 1em; font-weight: normal;">by Stephen R. Covey</span>
+<div style="margin-bottom: 0.5em;">
+## <span style="font-size: 1em; font-weight: bold;">7 Habits of Highly Effective People</span>
+<span style="font-size: 0.8em; font-weight: normal;">by Stephen R. Covey</span>
+</div>
 
-### <span style="font-size: 1.2em; font-weight: bold;">Atomic Habits</span>
-<span style="font-size: 1em; font-weight: normal;">by James Clear</span>
+<div style="margin-bottom: 0.5em;">
+## <span style="font-weight: bold;">Atomic Habits</span> by James Clear
+<span style="font-size: 0.8em; font-weight: normal;">by James Clear</span>
+</div>
 
 <div style="margin-bottom: 0.5em;">
     <span style="font-weight: bold;">12 Rules for Life</span> by Jordan B. Peterson
