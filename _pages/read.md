@@ -35,7 +35,7 @@ The more that you learn, the more places you'll go."
   6. <span style="font-weight: bold;">Principles</span> <span style="font-size: 1em;">by Ray Dalio</span>
 </div>
 
-## 🧠 Brain Work
+## 🧠 Amazing Brain
 
 <div style="margin-left: 0.5em; margin-bottom: 0.5em;">
   1. <span style="font-weight: bold;">Limitless</span> <span style="font-size: 1em;">by Jim Kwik</span>
