@@ -11,8 +11,8 @@ toc_sticky: true
 # Self-Improvement & Productivity
 
 <div style="margin-bottom: 0.5em;">
-## <span style="font-size: 1em; font-weight: bold;">7 Habits of Highly Effective People</span>
-<span style="font-size: 0.8em; font-weight: normal;">by Stephen R. Covey</span>
+  <span style="font-size: 1em; font-weight: bold;">7 Habits of Highly Effective People</span><br>
+  <span style="font-size: 0.8em; font-weight: normal;">by Stephen R. Covey</span>
 </div>
 
 <div style="margin-bottom: 0.5em;">
