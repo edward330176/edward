@@ -1,6 +1,10 @@
 ---
 title: "Book Corner"
 permalink: /read/
+toc: true
+toc_label: Title
+toc_icon: book
+toc_sticky: true
 ---
 
 ### **Self-Improvement & Productivity**
