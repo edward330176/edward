@@ -12,24 +12,22 @@ intro:
   - excerpt: > 
       "*It takes 10,000 hours of intensive practice to achieve mastery of complex skills and materials, like playing the violin or getting as good as Bill Gates.* — Malcolm Gladwell, Outliers: The Story of Success"
 
-feature_row:
+feature_row1:
   - image_path: /assets/img/cnn.jpg
     alt: "Project 1"
     title: "Religious Building Classification with CNN"
     excerpt: "A CNN is built from  scratch to classify various religious buildings, demonstrating how having a good cnn structures can prevent overfitting the data and improving perfomance at the same time."
-
+    url: "https://github.com/edward330176/cnn-religious-building"
+    btn_label: "View on Github"
+    btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/img/project3.jpg
+  - image_path: /assets/img/walmart.jpg
     alt: "Project 3"
-    title: "Project 3"
-    excerpt: "A brief description of Project 3."
-  - image_path: /assets/img/project4.jpg
-    alt: "Project 4"
-    title: "Project 4"
-    excerpt: "A brief description of Project 4."
-    url: "#"
-    btn_label: "Read More"
+    title: "Walamrt Sales Forecasting"
+    excerpt: "Forceast weekly sales for 45 Walmart stores. Trends and sesaonality are extracted from the time-series data to create meaningful features."
+    url: "https://github.com/edward330176/walmart-stores-time-series"
+    btn_label: "View on Github"
     btn_class: "btn--primary"
 
 feature_row3:
@@ -59,9 +57,9 @@ feature_row4:
 
 {% include feature_row id="feature_row1", type="left" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="right" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="center" %}
 
