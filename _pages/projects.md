@@ -9,20 +9,16 @@ header:
   overlay_image: /assets/img/header_2.jpg
   caption: "Photo credit: [Blake Connally on Unsplash](https://unsplash.com/photos/macbook-pro-inside-gray-room-B3l0g6HLxr8)"
 intro: 
-  - excerpt: 'Explore my projects, showcasing my work in data science, machine learning, and more. Each project highlights different aspects of my expertise and interests.'
+  - excerpt: > 
+      "*It takes 10,000 hours of intensive practice to achieve mastery of complex skills and materials, like playing the violin or getting as good as Bill Gates.* — Malcolm Gladwell, Outliers: The Story of Success"
 
 feature_row:
-  - image_path: /assets/img/project1.jpg
+  - image_path: /assets/img/cnn.jpg
     alt: "Project 1"
-    title: "Project 1"
-    excerpt: "A brief description of Project 1."
-  - image_path: /assets/img/project2.jpg
-    alt: "Project 2"
-    title: "Project 2"
-    excerpt: "A brief description of Project 2."
-    url: "#"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Religious Building Classification with CNN"
+    excerpt: "A CNN is built from  scratch to classify various religious buildings, demonstrating how having a good cnn structures can prevent overfitting the data and improving perfomance at the same time."
+    ![GitHub](https://img.shields.io/badge/View%20on%20GitHub-blue?style=flat-square&logo=github)
+    ![Kaggle](https://img.shields.io/badge/View%20on%20Kaggle-blue?style=flat-square&logo=kaggle)
 
 feature_row2:
   - image_path: /assets/img/project3.jpg
@@ -62,7 +58,7 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row1", type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
