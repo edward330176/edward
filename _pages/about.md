@@ -17,4 +17,4 @@ I received my master's degree in data science from the **University of Denver**.
 ## Reading Can Be A Hobby!
 In my leisure time, I enjoy reading books. I have created a dedicated page to list all the books I have read and enjoyed so far. I hope you all enjoy this reading feast!
 
-[Navigate to Book Corner](https://edward330176.github.io/read/){: .btn .btn--info }
+[Navigate to Book Corner](https://edward330176.github.io/bookcorner/){: .btn .btn--info }
