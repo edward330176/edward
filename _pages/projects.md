@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/img/header_2.jpg
   caption: "Photo credit: [Blake Connally on Unsplash](https://unsplash.com/photos/macbook-pro-inside-gray-room-B3l0g6HLxr8)"
 intro: 
-  - excerpt: "*It takes 10,000 hours of intensive practice to achieve mastery of complex skills and materials, like playing the violin or getting as good as Bill Gates.* — Malcolm Gladwell, Outliers: The Story of Success"
+  - excerpt: "*It takes 10,000 hours of intensive practice to achieve mastery of complex skills and materials, like playing the violin or getting as good as Bill Gates.* — Malcolm Gladwell"
 
 feature_row1:
   - image_path: /assets/img/cnn.jpg
@@ -40,10 +40,37 @@ feature_row3:
 
 feature_row4:
   - image_path: /assets/img/creditCard.jpg
-    alt: "Project 7"
+    alt: "Project 4"
     title: "Predicting Customer Credit Card Churn"
     excerpt: "Customers are at risk of churning from their credit card services. A complete exploratory data analysis and machine learning models are utilized to identify plausible reasons. Two mediums posts are written to complement the github repository."
     url: "https://github.com/edward330176/credit-card-churn"
+    btn_label: "View on Github"
+    btn_class: "btn--primary"
+
+feature_row5:
+  - image_path: /assets/img/house.jpg
+    alt: "Project 5"
+    title: "Model Comparison with House Price Data"
+    excerpt: "To offer valuable insights to homeowners and potential buyers, it is crucial to determine which machine learning algorithms produce the most reliable predictions for house prices. By analyzing and comparing the performance of various algorithms, an algorithm particularly perform the best."
+    url: "https://github.com/edward330176/house-price-prediction"
+    btn_label: "View on Github"
+    btn_class: "btn--primary"
+
+feature_row6:
+  - image_path: /assets/img/youtube.jpg
+    alt: "Project 7"
+    title: "Is ChatGPT Taking Our Roles in Data Science?"
+    excerpt: "ChatGPT was a hot topic in 2023. Through analyzing 10 data science related channels, we want to find out what the most frequent topics creators talked about."
+    url: "https://github.com/edward330176/2023-topic-youtube-api"
+    btn_label: "View on Github"
+    btn_class: "btn--primary"
+
+feature_row7:
+  - image_path: /assets/img/health.jpg
+    alt: "Project 8"
+    title: "Mental Health in Tech"
+    excerpt: "In 2014, a survey was done on mental health in the tech industry with over 1200 responses. There are many variables recorded about each participants. For exmaple, their age, family history, employee benefits, etc. We are interested which variable might influence one participant to seek treatment for mental health conditions. Furthermore, a random forest model is created using those determing factors to test its predicting strength."
+    url: "https://github.com/edward330176/mental-health-in-tech"
     btn_label: "View on Github"
     btn_class: "btn--primary"
 ---
@@ -57,4 +84,11 @@ feature_row4:
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
+
+{% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="right" %}
+
+{% include feature_row id="feature_row7" type="left" %}
+
 
