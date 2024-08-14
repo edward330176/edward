@@ -31,16 +31,12 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/img/project5.jpg
-    alt: "Project 5"
-    title: "Project 5"
-    excerpt: "A brief description of Project 5."
-  - image_path: /assets/img/project6.jpg
+  - image_path: /assets/img/storeSales.jpg
     alt: "Project 6"
-    title: "Project 6"
-    excerpt: "A brief description of Project 6."
-    url: "#"
-    btn_label: "Read More"
+    title: "Store Sales Time Series Forecasting with A Hybrid Model"
+    excerpt: "A comprehensive approach to time series forecasting by combining traditional statiscal methods with machine learning techniques."
+    url: "https://github.com/edward330176/store-sales-xgboost"
+    btn_label: "View on Github"
     btn_class: "btn--primary"
 
 feature_row4:
@@ -55,11 +51,11 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row1", type="left" %}
+{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="right" %}
 
