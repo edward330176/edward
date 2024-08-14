@@ -39,7 +39,7 @@ feature_row3:
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: /assets/img/creditCard.jpg
+  - image_path: /assets/img/creditCard1.jpg
     alt: "Project 4"
     title: "Predicting Customer Credit Card Churn"
     excerpt: "Customers are at risk of churning from their credit card services. A complete exploratory data analysis and machine learning models are utilized to identify plausible reasons. Two mediums posts are written to complement the github repository."
