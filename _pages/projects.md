@@ -18,8 +18,6 @@ feature_row:
     title: "Religious Building Classification with CNN"
     excerpt: >
     A CNN is built from  scratch to classify various religious buildings, demonstrating how having a good cnn structures can prevent overfitting the data and improving perfomance at the same time.
-    ![GitHub](https://img.shields.io/badge/View%20on%20GitHub-blue?style=flat-square&logo=github)  
-    ![Kaggle](https://img.shields.io/badge/View%20on%20Kaggle-blue?style=flat-square&logo=kaggle)
 
 feature_row2:
   - image_path: /assets/img/project3.jpg
