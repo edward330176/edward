@@ -9,8 +9,7 @@ header:
   overlay_image: /assets/img/header_2.jpg
   caption: "Photo credit: [Blake Connally on Unsplash](https://unsplash.com/photos/macbook-pro-inside-gray-room-B3l0g6HLxr8)"
 intro: 
-  - excerpt: > 
-      "*It takes 10,000 hours of intensive practice to achieve mastery of complex skills and materials, like playing the violin or getting as good as Bill Gates.* — Malcolm Gladwell, Outliers: The Story of Success"
+  - excerpt: "*It takes 10,000 hours of intensive practice to achieve mastery of complex skills and materials, like playing the violin or getting as good as Bill Gates.* — Malcolm Gladwell, Outliers: The Story of Success"
 
 feature_row1:
   - image_path: /assets/img/cnn.jpg
@@ -40,12 +39,12 @@ feature_row3:
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: /assets/img/project7.jpg
+  - image_path: /assets/img/creditCard.jpg
     alt: "Project 7"
-    title: "Project 7"
-    excerpt: "A brief description of Project 7."
-    url: "#"
-    btn_label: "Read More"
+    title: "Predicting Customer Credit Card Churn"
+    excerpt: "Customers are at risk of churning from their credit card services. A complete exploratory data analysis and machine learning models are utilized to identify plausible reasons. Two mediums posts are written to complement the github repository."
+    url: "https://github.com/edward330176/credit-card-churn"
+    btn_label: "View on Github"
     btn_class: "btn--primary"
 ---
 
