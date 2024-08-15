@@ -15,7 +15,7 @@ feature_row1:
   - image_path: /assets/img/cnn.jpg
     alt: "Project 1"
     title: "Religious Building Classification with CNN"
-    excerpt: "A CNN is built from  scratch to classify various religious buildings, demonstrating how having a good cnn structures can prevent overfitting the data and improving perfomance at the same time."
+    excerpt: "A Convolutional Neural Network (CNN) is built from scratch to classify images of religious buildigns, demonstrating the impact of well-structured CNN architectures on mitigating overfitting and enhancing model performance. This project highlights the importance of designing CNN architectures to balance complexity with generalization and prevent overfitting while improving overall model performance."
     url: "https://github.com/edward330176/cnn-religious-building"
     btn_label: "View on Github"
     btn_class: "btn--primary"
@@ -24,7 +24,7 @@ feature_row2:
   - image_path: /assets/img/walmart.jpg
     alt: "Project 3"
     title: "Walamrt Sales Forecasting"
-    excerpt: "Forceast weekly sales for 45 Walmart stores. Trends and sesaonality are extracted from the time-series data to create meaningful features."
+    excerpt: "Forceast weekly sales for 45 Walmart stores, leveraging a combination of exploratory data analysis (EDA), feature engineering, and advanced forecasting techniques. For example, trends and sesaonality are extracted from the time-series data to create meaningful features."
     url: "https://github.com/edward330176/walmart-stores-time-series"
     btn_label: "View on Github"
     btn_class: "btn--primary"
@@ -42,7 +42,7 @@ feature_row4:
   - image_path: /assets/img/creditCard1.jpg
     alt: "Project 4"
     title: "Predicting Customer Credit Card Churn"
-    excerpt: "Customers are at risk of churning from their credit card services. A complete exploratory data analysis and machine learning models are utilized to identify plausible reasons. Two mediums posts are written to complement the github repository."
+    excerpt: "Customers are at risk of churning from their credit card services. A complete exploratory data analysis and machine learning models are utilized to identify plausible reasons. With the inreasing number of cusotmers leaving their credit crard providers, this project aims to provide insights into potential churn risks."
     url: "https://github.com/edward330176/credit-card-churn"
     btn_label: "View on Github"
     btn_class: "btn--primary"
@@ -60,7 +60,7 @@ feature_row6:
   - image_path: /assets/img/youtube.jpg
     alt: "Project 7"
     title: "Is ChatGPT Taking Our Roles in Data Science?"
-    excerpt: "ChatGPT was a hot topic in 2023. Through analyzing 10 data science related channels, we want to find out what the most frequent topics creators talked about."
+    excerpt: "In 2023, ChatGPT emerged as a groundbreaking tool. It has led to question whether it might eventually replace certain roles in data science. Through analyzing 10 data science related channels, we want to find out what the most frequent topics creators talked about and to understand the influence of ChatGPT."
     url: "https://github.com/edward330176/2023-topic-youtube-api"
     btn_label: "View on Github"
     btn_class: "btn--primary"
