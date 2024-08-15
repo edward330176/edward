@@ -60,7 +60,7 @@ feature_row6:
   - image_path: /assets/img/youtube.jpg
     alt: "Project 7"
     title: "Is ChatGPT Taking Our Roles in Data Science?"
-    excerpt: "In 2023, ChatGPT emerged as a groundbreaking tool. It has led to question whether it might eventually replace certain roles in data science. Through analyzing 10 data science related channels, we want to find out what the most frequent topics creators talked about and to understand the influence of ChatGPT."
+    excerpt: "In 2023, ChatGPT emerged as a groundbreaking tool. It has led to question whether it might eventually replace certain roles in data science. Through analyzing 10 data science related channels, we want to find out what topics creators frequently talked about and understand the influence of ChatGPT."
     url: "https://github.com/edward330176/2023-topic-youtube-api"
     btn_label: "View on Github"
     btn_class: "btn--primary"
