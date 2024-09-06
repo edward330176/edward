@@ -23,7 +23,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/img/walmart.jpg
     alt: "Project 3"
-    title: "Walamrt Sales Forecasting"
+    title: "Walmart Sales Forecasting"
     excerpt: "Forceast weekly sales for 45 Walmart stores, leveraging a combination of exploratory data analysis (EDA), feature engineering, and advanced forecasting techniques. For example, trends and sesaonality are extracted from the time-series data to create meaningful features."
     url: "https://github.com/edward330176/walmart-stores-time-series"
     btn_label: "View on Github"
@@ -42,7 +42,7 @@ feature_row4:
   - image_path: /assets/img/creditCard1.jpg
     alt: "Project 4"
     title: "Predicting Customer Credit Card Churn"
-    excerpt: "Customers are at risk of churning from their credit card services. A complete exploratory data analysis and machine learning models are utilized to identify plausible reasons. With the inreasing number of cusotmers leaving their credit crard providers, this project aims to provide insights into potential churn risks."
+    excerpt: "Customers are at risk of churning from their credit card services. A complete exploratory data analysis and machine learning models are utilized to identify plausible reasons. With the increasing number of cusotmers leaving their credit crard providers, this project aims to provide insights into potential churn risks."
     url: "https://github.com/edward330176/credit-card-churn"
     btn_label: "View on Github"
     btn_class: "btn--primary"
