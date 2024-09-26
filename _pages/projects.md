@@ -24,7 +24,7 @@ feature_row2:
   - image_path: /assets/img/walmart.jpg
     alt: "Project 3"
     title: "Walmart Sales Forecasting"
-    excerpt: "Forceast weekly sales for 45 Walmart stores, leveraging a combination of exploratory data analysis (EDA), feature engineering, and advanced forecasting techniques. For example, trends and sesaonality are extracted from the time-series data to create meaningful features."
+    excerpt: "Forecast weekly sales for 45 Walmart stores, leveraging a combination of exploratory data analysis (EDA), feature engineering, and advanced forecasting techniques. For example, trends and sesaonality are extracted from the time-series data to create meaningful features."
     url: "https://github.com/edward330176/walmart-stores-time-series"
     btn_label: "View on Github"
     btn_class: "btn--primary"
