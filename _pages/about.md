@@ -14,7 +14,7 @@ I received my master's degree in data science from the **University of Denver**.
 
 1. Developing advanced AI technologies to assist in medical imaging, diagnostics, and beyond.
 2. Making AI models more human-centered and aligning with human perceptions.
-3. Utilizing AI to understand the human brain. 
+3. Utilizing AI to understand the mechanism of neurological diseases.
 
 ## Reading Can Be A Hobby!
 In my leisure time, I enjoy reading books. I have created a dedicated page to list all the books I have read and enjoyed so far. I hope you all enjoy this reading feast!
